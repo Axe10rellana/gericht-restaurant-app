@@ -21,7 +21,7 @@ import { Navbar, BtnScroll } from "./components";
 import "./styles/App.css";
 
 const App = () => (
-  <div>
+  <div className="overflowHidden">
     <Navbar />
     <Header />
     <AboutUs />

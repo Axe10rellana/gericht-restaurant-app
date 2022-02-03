@@ -19,7 +19,7 @@ const Newsletter = () => {
         <input
           type="email"
           name="email"
-          placeholder="Enter your e-mail address"
+          placeholder="Enter your email address"
           autoComplete="off"
           required
         />

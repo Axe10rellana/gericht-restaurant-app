@@ -22,7 +22,7 @@ const MenuItem = ({ title, tags, price }) => {
       </div>
 
       <div className="app__menuItem-sub">
-        <p className="p__opensans" style={{ color: "#AAA" }}>
+        <p className="p__opensans" style={{ color: "#AAAAAA" }}>
           {tags}
         </p>
       </div>

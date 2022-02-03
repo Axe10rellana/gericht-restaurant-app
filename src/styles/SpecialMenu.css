@@ -51,13 +51,13 @@
 }
 
 /* mediaquerys */
-@media screen and (max-width: 2000px) {
+@media screen and (min-width: 2000px) {
   .app__specialMenu-menu_img {
     width: 650px;
   }
 
   .app__specialMenu-menu_img img {
-    height: 950px;
+    height: 920px;
   }
 }
 
