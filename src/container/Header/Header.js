@@ -17,9 +17,12 @@ const Header = () => {
         <SubHeading title="Chase the new flavour" />
         <h1 className="app__header-h1">The Key To Fine Dining</h1>
         <p className="p__opensans" style={{ margin: "2rem 0" }}>
-          Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum
-          Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus
-          Aliquam Amet Tellus
+          Welcome to Gerícht, where we will take you on an exciting gastronomic
+          journey that will awaken your senses and elevate your expectations of
+          the culinary experience. At our restaurant, we understand that the
+          true essence of fine dining goes beyond the food itself; it is a
+          symphony of flavors, aromas, presentation and service that come
+          together to create unforgettable moments.
         </p>
         <button type="button" className="custom__button">
           Explore Menu

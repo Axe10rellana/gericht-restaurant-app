@@ -21,9 +21,11 @@ const AboutUs = () => {
           <h1 className="headtext__cormorant">About Us</h1>
           <img src={images.spoon} alt="About Spoon" className="spoon__img" />
           <p className="p__opensans">
-            Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Quis
-            Pharetra Adipiscing Ultrices Vulputate Posuere Tristique. In Sed
-            Odio Nec Aliquet Eu Proin Mauris Et.
+            Behind every delicious dish and friendly smile, there is a committed
+            and passionate team that works tirelessly to exceed our guests'
+            expectations. We pride ourselves on the dedication of our staff,
+            from the chefs to the waiters, who are here to make your experience
+            unforgettable.
           </p>
           <button type="button" className="custom__button">
             Know More
@@ -38,9 +40,10 @@ const AboutUs = () => {
           <h1 className="headtext__cormorant">Our History</h1>
           <img src={images.spoon} alt="About Spoon" className="spoon__img" />
           <p className="p__opensans">
-            Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Quis
-            Pharetra Adipiscing Ultrices Vulputate Posuere Tristique. In Sed
-            Odio Nec Aliquet Eu Proin Mauris Et.
+            Welcome to Gerícht, where a passion for food meets hospitality to
+            offer an exceptional dining experience. Founded in 2021, we have
+            spent years perfecting our cuisine and service to satisfy the most
+            discerning palates.
           </p>
           <button type="button" className="custom__button">
             Know More

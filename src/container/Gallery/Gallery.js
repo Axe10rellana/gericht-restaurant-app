@@ -46,8 +46,8 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Volutpat
-          Mattis Ipsum Turpis Elit Elit Scelerisque Egestas Mu.
+          Welcome to our Photo Gallery. Each image captures the delicious
+          creation of our dishes and drinks prepared with passion and care.
         </p>
         <button type="button" className="custom__button">
           View More

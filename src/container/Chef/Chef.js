@@ -24,15 +24,13 @@ const Chef = () => {
           <div className="app__chef-content_quote">
             <img src={images.quote} alt="Quote" />
             <p className="p__opensans">
-              Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit Auctor
-              Sit.
+              At Gerícht, our passion for food and hospitality goes beyond what
+              we serve on our plates.
             </p>
           </div>
           <p className="p__opensans">
-            Auctor Sit Iaculis In Arcu. Vulputate Nulla Lobortis Mauris Eget
-            Sit. Nulla Scelerisque Scelerisque Congue Ac Consequat, Aliquam
-            Molestie Lectus Eu. Congue Iaculis Integer Curabitur Semper Sit
-            Nunc.
+            We believe in a dining experience that is accompanied by core values
+            that guide us in every step we take.
           </p>
         </div>
 
